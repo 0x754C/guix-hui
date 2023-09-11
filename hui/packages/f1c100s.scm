@@ -1,6 +1,7 @@
 (define-module (hui packages f1c100s)
   #:use-module (gnu packages)
   #:use-module (gnu packages bootloaders)
+  #:use-module (gnu packages linux)
   #:use-module (gnu packages tls)
   #:use-module (guix packages)
   #:use-module (guix gexp)
